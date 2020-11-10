@@ -5,7 +5,8 @@ public class Hello2 {
 
         // today was such a nice day
 
-
+         // line 1
+        // line 2
 
 
     }
